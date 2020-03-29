@@ -9,3 +9,5 @@ require (
 	github.com/urfave/cli v0.0.0-20180821064027-934abfb2f102
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
+
+go 1.13
